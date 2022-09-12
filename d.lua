@@ -25,5 +25,6 @@ return {
 	"ARRNNN",
 	"DHKY",
 	"Wooseok1",
-	"geigeradi1"
+	"geigeradi1",
+	"rmdim300"
 }
