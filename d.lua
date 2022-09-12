@@ -26,5 +26,6 @@ return {
 	"DHKY",
 	"Wooseok1",
 	"geigeradi1",
-	"rmdim300"
+	"rmdim300",
+	"Bvery"
 }
