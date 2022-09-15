@@ -25,8 +25,9 @@ return {
 	"ARRNNN",
 	"DHKY",
 	"Wooseok1",
-	"geigeradi1",
+	"GeigerAdi1",
 	"rmdim300",
-	"Bvery",
-	"gnemu"
+	"PiYDStorey",
+	"gnemu",
+	"kaylc"
 }
