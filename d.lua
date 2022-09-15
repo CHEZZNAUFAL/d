@@ -27,7 +27,7 @@ return {
 	"Wooseok1",
 	"GeigerAdi1",
 	"rmdim300",
-	"PiYDStorey",
+	"PiYDStore",
 	"gnemu",
 	"kaylc"
 }
