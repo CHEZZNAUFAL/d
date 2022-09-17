@@ -32,5 +32,6 @@ return {
 	"kaylc",
 	"pnbmjib56",
 	"XOPOK",
-	"Zephyerss"
+	"Zephyerss",
+	"OwnersHAJI"
 }
