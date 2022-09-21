@@ -33,5 +33,6 @@ return {
 	"pnbmjib56",
 	"XOPOK",
 	"Zephyerss",
-	"OwnersHAJI"
+	"OwnersHAJI",
+	"Entanzfarm"
 }
