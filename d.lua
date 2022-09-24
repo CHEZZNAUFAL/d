@@ -35,5 +35,6 @@ return {
 	"Zephyerss",
 	"OwnersHAJI",
 	"Entanzfarm",
-	"Qandet"
+	"Qandet",
+	"zbavk10"
 }
