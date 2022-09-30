@@ -37,7 +37,7 @@ return {
 	"Entanzfarm",
 	"Qandet",
 	"zbavk10",
-	"HanzRungkad",
+	"hanzyizrungkad",
 	"FakeJetiee",
 	"adisyn15"
 }
