@@ -38,5 +38,6 @@ return {
 	"Qandet",
 	"zbavk10",
 	"HanzRungkad",
-	"FakeJetiee"
+	"FakeJetiee",
+	"adisyn15"
 }
