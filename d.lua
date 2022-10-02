@@ -10,7 +10,7 @@ return {
 	"suspnb3",
 	"dokunsv1",
 	"BBSTORE",
-	"ModzSC",
+	"iModerna",
 	"Yenoan",
 	"KRLunatic",
 	"ShogunPD",
