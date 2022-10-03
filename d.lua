@@ -8,7 +8,7 @@ return {
 	"XGZN",
 	"BandungID",
 	"suspnb3",
-	"dokunsv1",
+	"ValdoKun",
 	"BBSTORE",
 	"iModerna",
 	"Yenoan",
