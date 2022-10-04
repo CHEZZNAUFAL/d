@@ -39,5 +39,6 @@ return {
 	"zbavk10",
 	"hanzyizrungkad",
 	"LockOwner001",
-	"ayydii"
+	"ayydii",
+	"Nsfxhastaken"
 }
