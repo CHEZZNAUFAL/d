@@ -41,5 +41,6 @@ return {
 	"LockOwner001",
 	"ayydii",
 	"Nsfxhastaken",
-	"Edtilya"
+	"Edtilya",
+	"AtseWinata"
 }
