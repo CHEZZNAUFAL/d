@@ -5,7 +5,7 @@ return {
 	"Lodomoz30",
 	"SellgoMYKILA",
 	"NameBr25",	
-	"XGZN",
+	"VerifOwner1",
 	"BandungID",
 	"suspnb3",
 	"ValdoKun",
