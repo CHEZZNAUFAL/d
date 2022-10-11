@@ -1,4 +1,4 @@
-Drreturn {
+return {
 	"HELLRAME21",
 	"arlun33",
 	"Bheleyesy27",
@@ -43,6 +43,6 @@ Drreturn {
 	"Nsfxhastaken",
 	"Edtilya",
 	"AtseWinata",
-        "semihbgl",
-        "sukhejeng"
+	"semihbgl",
+	"sukhejeng"
 }
