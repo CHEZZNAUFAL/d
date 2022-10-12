@@ -22,7 +22,7 @@ return {
 	"ZINCPROz",
 	"Pegan",
 	"munzaya5",
-	"ARRNNN",
+	"Caplaymann",
 	"DHKY",
 	"Wooseok1",
 	"gofcia",
