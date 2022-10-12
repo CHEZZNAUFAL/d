@@ -32,7 +32,7 @@ return {
 	"kaylc",
 	"pnbmjib56",
 	"CIYABUL",
-	"Zephyerss",
+	"botpalz",
 	"OwnersHAJI",
 	"Entanzfarm",
 	"Qandet",
