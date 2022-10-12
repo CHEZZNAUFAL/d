@@ -40,9 +40,9 @@ return {
 	"hanzyizrungkad",
 	"LockOwner001",
 	"ayydii",
-	"Nsfxhastaken",
+	"Notskyebeentaken",
 	"Edtilya",
 	"AtseWinata",
-	"semihbgl",
+	"InFlamesBTW",
 	"sukhejeng"
 }
