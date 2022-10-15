@@ -44,5 +44,6 @@ return {
 	"Edtilya",
 	"AtseWinata",
 	"InFlamesBTW",
-	"sukhejeng"
+	"sukhejeng",
+	"Goleri20"
 }
