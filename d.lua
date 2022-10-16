@@ -45,5 +45,6 @@ return {
 	"AtseWinata",
 	"InFlamesBTW",
 	"sukhejeng",
-	"Goleri20"
+	"Goleri20",
+        "HAFIYE1"
 }
