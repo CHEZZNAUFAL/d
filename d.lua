@@ -8,7 +8,7 @@ return {
 	"VerifOwner1",
 	"BandungID",
 	"suspnb3",
-	"ValdoKun",
+	"difado9",
 	"BBSTORE",
 	"iModerna",
 	"Yenoan",
