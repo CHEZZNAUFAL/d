@@ -39,7 +39,7 @@ return {
 	"zbavk10",
 	"hanzyizrungkad",
 	"LockOwner001",
-	"ayydii",
+	"deestay",
 	"Notskyebeentaken",
 	"Edtilya",
 	"AtseWinata",
