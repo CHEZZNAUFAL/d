@@ -55,5 +55,6 @@ return {
         "aabxaab1",
 	"QHBl",
 	"Xidazu",
-        "FTHXC"
+        "FTHXC",
+        "BOTGEISv510"
 }
