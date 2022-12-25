@@ -56,5 +56,6 @@ return {
 	"QHBl",
 	"Xidazu",
         "FTHXC",
-        "BOTGEISv510"
+        "BOTGEISv510",
+	"Astaking3"
 }
