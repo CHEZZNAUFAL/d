@@ -59,5 +59,5 @@ return {
         "BOTGEISv510",
 	"Astaking3",
         "STWMAIN",
-        "wroadtos"
+        "hold225"
 }
