@@ -57,5 +57,7 @@ return {
 	"Xidazu",
         "FTHXC",
         "BOTGEISv510",
-	"Astaking3"
+	"Astaking3",
+        "STWMAIN",
+        "wroadtos"
 }
