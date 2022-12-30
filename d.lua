@@ -59,5 +59,7 @@ return {
         "BOTGEISv510",
 	"Astaking3",
         "STWMAIN",
-        "hold225"
+        "hold225",
+        "move6ahead",
+        "babubs471"
 }
