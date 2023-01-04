@@ -61,5 +61,6 @@ return {
         "STWMAIN",
         "hold225",
         "move6ahead",
-        "babubs471"
+        "babubs471",
+	"burungberbiji5"
 }
