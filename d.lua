@@ -62,5 +62,6 @@ return {
         "hold225",
         "move6ahead",
         "babubs471",
-	"burungberbiji5"
+	"burungberbiji5",
+	"celenggt"
 }
