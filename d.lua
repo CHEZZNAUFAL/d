@@ -1,5 +1,5 @@
 return {
-	"HELLRAME13",
+	"hellrame13",
 	"arlun33",
 	"bheletake",
 	"Lodomoz30",
