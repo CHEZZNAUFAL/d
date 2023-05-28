@@ -68,6 +68,5 @@ return {
         "UnstoppableGod",
         "KBqKPA4M",
         "huyita",
-	"ahsanterlalukuat",
-	"hohoho"
+	"ahsanterlalukuat"
 }
